@@ -1,25 +1,27 @@
 {
-    "name": "bamazon",
-    "version": "1.0.0",
-    "description": "Node.js &amp; MySQL Store Front Homework  Coding Bootcamp",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jlramsey07/bamazon-HW.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jlramsey07/bamazon-HW/issues"
-    },
-    "homepage": "https://github.com/jlramsey07/bamazon-HW#readme",
-    "dependencies": {
-      "console.table": "^0.9.1",
-      "inquirer": "^4.0.0",
-      "mysql": "^2.15.0"
-    }
-  }
-  
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node.js &amp; MySQL Store Front Homework  Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlramsey07/bamazon-HW.git"
+  },
+  "author": "JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlramsey07/bamazon-HW/issues"
+  },
+  "homepage": "https://github.com/jlramsey07/bamazon-HW#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "console.table": "^0.9.1",
+    "inquirer": "^4.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
+}
